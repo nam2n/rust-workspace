@@ -8,8 +8,10 @@ Jenkinsfile
 README.md
 docker-compose.yml
 Dockerfile
-
+.travis.yml
+.github
 .git
+
 .vscode
 .env
 .gitignore
